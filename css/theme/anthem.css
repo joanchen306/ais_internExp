@@ -12,16 +12,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-color:   #0B2A2F;
-}
-
-.slide-bg {
-  margin: 0 auto;
-  width: 1024px;
-  height: 768px;
-  background-image: url("../../img/anthem-bg.png") ;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
+  background-color:   #0c343c;
 }
 
 .reveal {
