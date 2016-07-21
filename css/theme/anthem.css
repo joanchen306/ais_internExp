@@ -13,14 +13,10 @@
  *********************************************/
 body {
   background-color:   #0B2A2F;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  text-align: center;
 }
 
 .slide-bg {
   margin: 0 auto;
-  position: relative;
   width: 1024px;
   height: 768px;
   background-image: url("../../img/anthem-bg.png") ;
